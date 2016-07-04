@@ -22,7 +22,7 @@
     "mocha": "^2.2.5"
   },
   "dependencies": {
-    "gonzales-pe": "^3.3.6",
+    "gonzales-pe": "3.0.0-31",
     "node-sass": "~3.8.0"
   }
 }
